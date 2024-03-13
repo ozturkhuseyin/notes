@@ -1,0 +1,3 @@
+/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/build/CMakeFiles/x-macro.dir
+/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/build/CMakeFiles/edit_cache.dir
+/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/build/CMakeFiles/rebuild_cache.dir

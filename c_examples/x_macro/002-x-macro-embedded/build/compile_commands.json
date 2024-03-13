@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/build",
+  "command": "/usr/bin/clang  -I/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/x-macro -I/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/inc -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -o CMakeFiles/x-macro.dir/src/x-macro.c.o -c /Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/src/x-macro.c",
+  "file": "/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/src/x-macro.c"
+},
+{
+  "directory": "/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/build",
+  "command": "/usr/bin/clang  -I/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/x-macro -I/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/inc -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -o CMakeFiles/x-macro.dir/src/test.c.o -c /Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/src/test.c",
+  "file": "/Users/blue/Documents/GitHub/my-code-playground/c-programming/x_macro/002-x-macro-embedded/src/test.c"
+}
+]
