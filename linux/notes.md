@@ -1,1 +1,0 @@
-# Linux Sistem Programlama Notlarım

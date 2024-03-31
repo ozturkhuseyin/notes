@@ -1,8 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "stdio.h": "c",
-        "mcp3914.h": "c",
-        "sensor.h": "c"
-    }
-}
